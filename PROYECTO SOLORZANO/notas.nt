@@ -1,0 +1,16 @@
+investigar******
+
+
+nth-child(4n+4):hover 
+    transform: translate(-30px, 60px);
+    z-index: ;
+    @MEDIA
+    COVER
+    OVERFLOW
+
+
+@media(max-width:991px)
+{
+    .{
+        min-height: 70px;
+    }
